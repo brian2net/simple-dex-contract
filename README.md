@@ -10,5 +10,5 @@ You are able to:
 * Withdraw ETH or Token
 
 📫 How to reach [me](https://github.com/brian2net)
-Email: brian2net@outlook.com
-Skype: brian2net@outlook.com
+* Email: brian2net@outlook.com
+* Skype: brian2net@outlook.com
